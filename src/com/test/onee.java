@@ -22,8 +22,21 @@ public class onee {
 		
 	}
 	public void method6() {
+
 		System.out.println("1");
 		
 	}
+
+	public void method10() {
+		System.out.println("1");
+		
+	}
+	public void method11() {
+		System.out.println("1");
+		
+	}
+	public void method12() {
+	}
+	
 
 }
