@@ -13,6 +13,20 @@ public class onee {
 		System.out.println("1");
 		
 	}
+	public void method4() {
+		System.out.println("1");
+		
+	}
+	public void method5() {
+		System.out.println("1");
+		
+	}
+	public void method6() {
+
+		System.out.println("1");
+		
+	}
+
 	public void method10() {
 		System.out.println("1");
 		
@@ -22,8 +36,7 @@ public class onee {
 		
 	}
 	public void method12() {
-		System.out.println("1");
-		
 	}
+	
 
 }
