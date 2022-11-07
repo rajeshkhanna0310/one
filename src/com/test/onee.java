@@ -13,5 +13,17 @@ public class onee {
 		System.out.println("1");
 		
 	}
+	public void method4() {
+		System.out.println("1");
+		
+	}
+	public void method5() {
+		System.out.println("1");
+		
+	}
+	public void method6() {
+		System.out.println("1");
+		
+	}
 
 }
